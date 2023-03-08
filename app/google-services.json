@@ -1,0 +1,113 @@
+{
+  "project_info": {
+    "project_number": "434341102500",
+    "project_id": "codefestcompetitionproject",
+    "storage_bucket": "codefestcompetitionproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:434341102500:android:3c69c50d31d23ed85f7731",
+        "android_client_info": {
+          "package_name": "com.javainstitute.codeefestcompetitiondayprojectcustomer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "434341102500-ougr8ecvalohbas7r632bgh0he3lnt4s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.javainstitute.codeefestcompetitiondayprojectcustomer",
+            "certificate_hash": "91d9a088fe0adbd4feefba5013a37e20deb385fd"
+          }
+        },
+        {
+          "client_id": "434341102500-hs08diqi82as4ap9mcp5ml3kjsi0grmm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnelf1NLX5YzBDVSyXqERRx3-MjKBJzy8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "434341102500-hs08diqi82as4ap9mcp5ml3kjsi0grmm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:434341102500:android:87f75f117bfd1fcd5f7731",
+        "android_client_info": {
+          "package_name": "com.javainstitute.codefestcompetitiondayprojectadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "434341102500-hs08diqi82as4ap9mcp5ml3kjsi0grmm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnelf1NLX5YzBDVSyXqERRx3-MjKBJzy8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "434341102500-hs08diqi82as4ap9mcp5ml3kjsi0grmm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:434341102500:android:b233c86e9718c4435f7731",
+        "android_client_info": {
+          "package_name": "com.javainstitute.codefestcompetitiondayprojectrider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "434341102500-27um8f2bnn3pcao1qkrhdfrolf2853vo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.javainstitute.codefestcompetitiondayprojectrider",
+            "certificate_hash": "91d9a088fe0adbd4feefba5013a37e20deb385fd"
+          }
+        },
+        {
+          "client_id": "434341102500-hs08diqi82as4ap9mcp5ml3kjsi0grmm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnelf1NLX5YzBDVSyXqERRx3-MjKBJzy8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "434341102500-hs08diqi82as4ap9mcp5ml3kjsi0grmm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
