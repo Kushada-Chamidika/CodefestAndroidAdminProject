@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">434341102500-hs08diqi82as4ap9mcp5ml3kjsi0grmm.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">434341102500</string>
+    <string name="google_api_key" translatable="false">AIzaSyBnelf1NLX5YzBDVSyXqERRx3-MjKBJzy8</string>
+    <string name="google_app_id" translatable="false">1:434341102500:android:87f75f117bfd1fcd5f7731</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBnelf1NLX5YzBDVSyXqERRx3-MjKBJzy8</string>
+    <string name="google_storage_bucket" translatable="false">codefestcompetitionproject.appspot.com</string>
+    <string name="project_id" translatable="false">codefestcompetitionproject</string>
+</resources>
