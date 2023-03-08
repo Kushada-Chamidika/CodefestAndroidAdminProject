@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">COdefestCompetitionDayProjectAdmin</string>
+    <string name="shoppy_app">Shoppy App</string>
+    <string name="admin_app">Admin App</string>
+    <string name="log_in">Log In</string>
+    <string name="login_with_google">Login with Google</string>
+    <string name="register">Register</string>
+    <string name="name">Name :</string>
+    <string name="email">Email :</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="mobile">Mobile :</string>
+    <string name="address">Address</string>
+    <string name="enter_your_email">Enter your email</string>
+    <string name="enter_your_mobile">Enter your mobile</string>
+    <string name="enter_your_address">Enter your address</string>
+    <string name="shop_name">Shop Name</string>
+    <string name="enter_your_shop_name">Enter your shop name</string>
+    <string name="logout">LogOut</string>
+    <string name="add_product">Add Product</string>
+    <string name="textview">TextView</string>
+    <string name="add_to_newsfeed">Add to newsfeed</string>
+    <string name="view_tickets">View Tickets</string>
+    <string name="add_image">Add Image</string>
+    <string name="select_product_image">Select Product Image</string>
+    <string name="product_name">Product Name</string>
+    <string name="product_price">Product Price</string>
+    <string name="add_newsfeed">Add NewsFeed</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="add_a_event">Add a EVENT...</string>
+    <string name="add_a_newsfeed">Add a NEWSFEED...</string>
+    <string name="add_news">Add News</string>
+    <string name="add">Add</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="set_type">Set Type</string>
+    <string name="add_location">Add Location</string>
+    <string name="select_file">Select File</string>
+    <string name="information_request">Information Request</string>
+    <string name="complain">Complain</string>
+    <string name="compliment">Compliment</string>
+    <string name="add_event">Add Event</string>
+    <string name="sale">Sale</string>
+    <string name="information">Information</string>
+    <string name="offer">Offer</string>
+    <string name="check_tickets">Check Tickets</string>
+
+</resources>
