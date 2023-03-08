@@ -23,7 +23,7 @@ public class fcmClient extends AsyncTask<String,String,String> {
         Request request = new Request.Builder()
                 .url("https://fcm.googleapis.com/fcm/send")
                 .method("POST", body)
-                .addHeader("Authorization", "key=AAAAZSC_Q6Q:APA91bH6RkOCPrPxEyruO1NErKByjzB363ge0gDYB_iyco2dMrxP5LkwEIUzT8K00KUkkwJoOrC9y2ewigTZXpQ-r0untMrW446P9YYhplMLOwq3h0OOeL-BY2MHA7VRAq1p8XRJQVyP")
+                .addHeader("Authorization", "key=API_Key")
                 .addHeader("Content-Type", "application/json")
                 .build();
         try {
